@@ -26,14 +26,6 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 ---
 
-### 📊 Statistiques GitHub
-
-| Ma stack préférée | Mes stats |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-pie&layout=compact&theme=vision-ff-v2" alt="Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=Yael-pie&show_icons=true&theme=vision-ff-v2" alt="GitHub Stats" /> |
-
----
-
 ### 📫 Me contacter
 
 * **E-mail EPITECH :** yael.pierre@epitech.eu
