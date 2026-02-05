@@ -23,7 +23,7 @@ C'est ici que je documente mon parcours et mes projets réalisés durant mon cur
 
 * **[Tears of Dawn]** : Réalisation d'un jeu de A à Z, que ça soit la musique, les graphismes ou encore le code.
 * **[Cod]** : Un petit éditeur de code assez simpliste à l'image de Nano par exemple que je développe quand j'ai du temps.
-* * **[Xouh]** : Xouh (IA + APP) est un compagnon ciblé pour les personnes en traitement de chimiothérapie et de radiothérapie qui est composé d'une IA mais aussi d'une application web complète. Nous sommes encore en train de travailler dessus et tout le code sera Open source.
+* **[Xouh]** : Xouh (IA + APP) est un compagnon ciblé pour les personnes en traitement de chimiothérapie et de radiothérapie qui est composé d'une IA mais aussi d'une application web complète. Nous sommes encore en train de travailler dessus et tout le code sera Open source.
 
 ---
 
