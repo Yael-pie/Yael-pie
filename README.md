@@ -1,6 +1,6 @@
 # Salut, moi c'est Yaël ! 👋
 
-### 🚀 Étudiant Tek[1] @ Epitech Montpellier
+### 🚀 Étudiant Tek[2] @ Epitech Montpellier
 
 C'est ici que je documente mon parcours et mes projets réalisés durant mon cursus à Epitech mais aussi certains de mes projets personnels. Je m'intéresse beaucoup à l'IA, les langages de bas niveau, le web et un peu de Cybersécurité. J'aime aussi découvrir des choses que je ne connais pas et les réaliser.
 
